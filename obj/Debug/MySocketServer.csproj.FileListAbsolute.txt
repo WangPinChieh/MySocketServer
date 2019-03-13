@@ -1,0 +1,6 @@
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\bin\Debug\MySocketServer.exe.config
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\bin\Debug\MySocketServer.exe
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\bin\Debug\MySocketServer.pdb
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\obj\Debug\MySocketServer.csprojResolveAssemblyReference.cache
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\obj\Debug\MySocketServer.exe
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\obj\Debug\MySocketServer.pdb
